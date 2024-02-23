@@ -1,2 +1,2 @@
 # The Odin Project
-All assignments and projects catered for The Odin Project
+All assignments catered for The Odin Project
