@@ -9,7 +9,7 @@ function multiply (number1, number2){
 }
 
 function capitalize (word){
-    uppercase(word)
+    return uppercase(word)
 }
 
 function lastLetter (another_word) {
